@@ -8,7 +8,7 @@ permissions:
      pattern: "*.html"
      owner: root
      group: root
-     mode: 0756
+     mode: 755
      type:
        - file
 hooks:
